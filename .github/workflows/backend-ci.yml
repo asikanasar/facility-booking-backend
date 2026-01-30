@@ -32,3 +32,4 @@ jobs:
             -Dsonar.projectKey=asikanasar_facility-booking-backend
             -Dsonar.organization=asikanasar
             -Dsonar.java.binaries=target
+#UPDATED
